@@ -26,8 +26,8 @@ Follow these steps to set up and run the project:
 #### 1 .Clone the repository:
 
 ```
-git clone https://github.com/yourusername/music-mood-recommendation-system.git
-cd music-mood-recommendation-system
+git clone https://github.com/hemantkumarlearning/Music_Mood_Recommendation_System.git
+cd Music_Mood_Recommendation_System
 ```
 
 #### 2. Create a virtual environment (optional but recommended):
