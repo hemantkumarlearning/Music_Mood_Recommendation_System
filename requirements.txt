@@ -1,0 +1,7 @@
+google-api-python-client==2.160.0
+PyAudio==0.2.14
+requests==2.32.3
+SpeechRecognition==3.14.1
+streamlit==1.42.0
+textblob==0.19.0
+
